@@ -3,4 +3,5 @@ Rencana Konten
   - ES6
   - Framework
 - PHP Framework
+- struktur data dasar
 - Vlog
