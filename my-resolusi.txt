@@ -1,0 +1,5 @@
+My Resolusi
+- konsisten belajar php, laravel, api, python, javascript
+- membuat platform blog yang mengelola blog dari banyak author dan kategori
+- membuat platform yang terhubung/terkoneksi dengan api
+
