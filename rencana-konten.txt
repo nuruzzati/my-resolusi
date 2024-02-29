@@ -2,6 +2,9 @@ Rencana Konten
 - Javascript
   - ES6
   - Framework
+    -vue
 - PHP Framework
+    -laravel
 - struktur data dasar
 - Vlog
+- Python
