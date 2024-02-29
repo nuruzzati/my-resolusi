@@ -3,6 +3,7 @@ Rencana Konten
   - ES6
   - Framework
     -vue
+    - React
 - PHP Framework
     -laravel
 - struktur data dasar
