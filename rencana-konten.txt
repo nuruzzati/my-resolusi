@@ -2,6 +2,8 @@ Rencana Konten
 - Javascript
   - ES6
   - Framework
+    -angular
+    -react
 - PHP Framework
-- struktur data dasar
+    -laravel
 - Vlog
